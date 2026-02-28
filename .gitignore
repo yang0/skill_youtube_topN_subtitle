@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project runtime outputs (code-only commits)
+/outputs/
+**/outputs/
+*.vtt
+*.srt
+*.ass
+*.lrc
+
+# Privacy / secrets
+cookies/
+**/cookies/
+*cookie*.txt
+*.secrets
+*.secret
+*.token
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local workspace notes
+codex_builtin_commands_tutorial_zh.md

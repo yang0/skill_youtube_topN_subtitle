@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Subtitle YT-DLP"
+  short_description: "Export subtitles from YouTube links with yt-dlp"
+  default_prompt: "Use $youtube-subtitle-yt-dlp to extract subtitle files from a YouTube link using yt-dlp and cookies."

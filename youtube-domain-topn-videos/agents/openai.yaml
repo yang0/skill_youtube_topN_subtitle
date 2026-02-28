@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Domain TopN Videos"
+  short_description: "Fetch domain-specific YouTube TopN hot videos"
+  default_prompt: "Use $youtube-domain-topn-videos to collect the latest top-N YouTube videos for a domain from the past 24 hours."
